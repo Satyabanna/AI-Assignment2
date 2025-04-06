@@ -1,0 +1,5 @@
+gym[all]
+numpy
+imageio
+matplotlib
+tqdm
